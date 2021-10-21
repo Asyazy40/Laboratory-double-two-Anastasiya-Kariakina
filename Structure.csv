@@ -1,0 +1,5 @@
+﻿room;комната;text
+name;название;text
+cost;цена;numeric
+art;артикул;numeric
+source;ссылка;text
